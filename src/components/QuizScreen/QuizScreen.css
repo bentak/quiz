@@ -1,0 +1,43 @@
+.main{
+  text-align: center;
+  width: 100%;
+  height: '100vh' ; 
+  font-weight: 700;
+}
+
+.question{
+  width: 50%;
+  height: 60px;
+  margin: auto; 
+  padding: 10px;
+  text-align: center;
+  border-radius: 30px;
+  background-color: #561ce8;
+  color: #fff;
+  font-weight: 700;
+ margin-top: 50px;
+}
+
+.choice{
+  background-color: #561ce8;
+  color:#ffffff;
+  cursor:pointer;
+  text-decoration:none;
+  border-radius:28px;
+	display:inline-block;
+  padding:10px 31px;
+}
+
+.choice:hover {
+	background-color:#150933;
+}
+
+.footer{
+  background-color: #561ce8;
+  height: 40px;
+  width: 100%;
+  position:fixed;
+  left: 0;
+  bottom: 0;
+}
+
